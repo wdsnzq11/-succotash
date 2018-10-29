@@ -24,7 +24,7 @@ public class Account {
     }
 
     public float getMoney() {
-        return money;
+        return moneyddd;
     }
 
     public void setMoney(float money) {
@@ -39,5 +39,6 @@ public class Account {
                 ", money=" + money +
                 ", uid=" + name +
                 '}';
+
     }
 }
